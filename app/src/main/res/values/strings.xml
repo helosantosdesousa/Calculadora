@@ -1,24 +1,24 @@
 <resources>
     <string name="app_name">Calculadora</string>
     <string name="tittle">Calculator</string>
-    <string name="bt1">C</string>
-    <string name="bt2">teste</string>
-    <string name="bt3">%</string>
-    <string name="bt4">/</string>
-    <string name="bt5">7</string>
-    <string name="bt6">8</string>
-    <string name="bt7">9</string>
-    <string name="bt8">*</string>
-    <string name="bt9">4</string>
-    <string name="bt10">5</string>
-    <string name="bt11">6</string>
-    <string name="bt12">-</string>
-    <string name="bt13">1</string>
-    <string name="bt14">2</string>
-    <string name="bt15">3</string>
-    <string name="bt16">+</string>
-    <string name="bt17">t</string>
-    <string name="bt18">0</string>
-    <string name="bt19">.</string>
-    <string name="bt20">=</string>
+    <string name="btClear">C</string>
+    <string name="btParentheses">teste</string>
+    <string name="btPercentage">%</string>
+    <string name="btDivision">/</string>
+    <string name="bt7">7</string>
+    <string name="bt8">8</string>
+    <string name="bt9">9</string>
+    <string name="btTimes">*</string>
+    <string name="bt4">4</string>
+    <string name="bt5">5</string>
+    <string name="bt6">6</string>
+    <string name="btMinus">-</string>
+    <string name="bt1">1</string>
+    <string name="bt2">2</string>
+    <string name="bt3">3</string>
+    <string name="btSum">+</string>
+    <string name="btSignal">t</string>
+    <string name="bt0">0</string>
+    <string name="btDot">.</string>
+    <string name="btEquals">=</string>
 </resources>
